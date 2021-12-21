@@ -1,0 +1,99 @@
+.appBody{
+    background-color: rgb(119, 1, 1);
+    min-height: 90vh;
+}
+.bodySearch{
+    /* margin: auto; */
+    border-radius: 15px;
+    /* width: 320px; */
+    width: 100%;
+    border: none;
+    min-height: 100vh;
+    justify-content: center;
+}
+.bodySearch:focus{
+    border: none;
+    outline: none;
+    
+}
+.bodyForm{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+/* ===============================card============================= */
+
+.cardSearch{
+    width: 90vw;
+    background-color: aliceblue;
+    /* background-color: red; */
+    height: 15vh;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    /* align-items: center; */
+    padding: 5px;
+}
+
+.cardImage{
+    height: 80%;
+    max-width: 40%;
+    border-radius: 15px;
+    margin: auto;
+}
+.cardName{
+    font-weight: bold;
+    padding-right: 5px;
+}
+.cardText{
+    /* background-color: blue; */
+}
+.cardAdressTitle{
+   font-weight: bold;
+}
+.cardAdress{
+    font-size: 12px;
+}
+.logoAdress{
+    width: 15px;
+}
+.cardStatus{
+    writing-mode: vertical-rl;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    height: 100%;
+}
+.statusRed{
+    border-radius: 10px;
+    background: red;
+}
+.statusGreen{
+    border-radius: 10px;
+    background: green;
+}
+.statusOrange{
+    border-radius: 10px;
+    background: orangered;
+}
+.hideColor{
+    display: none;
+}
+
+.vazio{
+    box-shadow: 3px 3px 0px 3px green;
+}
+.cheio{
+    box-shadow: 3px 3px 0px 3px red;
+}
+.moderado{
+    box-shadow: 3px 3px 0px 3px orangered;
+}
+
+.cardNoFound{
+
+    margin: auto;
+}

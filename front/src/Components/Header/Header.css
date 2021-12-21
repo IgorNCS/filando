@@ -1,0 +1,28 @@
+.headerLogo{
+    height: 10vh;
+  }
+  .headerLogin{
+    height: 3vh;
+    float: right;
+    margin-top: 3vh;
+    margin-right: 2vw;
+  }
+  .appHeader{
+    background-color: whitesmoke;
+    height: 10vh;
+    /* width: 100%; */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .btnInvi{
+    /* margin: 0px;
+    padding: 0px; */
+    border: none;
+    background-color: rgba(255, 0, 0, 0);
+  }
+  .btnInvi:hover{
+    background-color: none;
+    cursor: pointer;
+  }

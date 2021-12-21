@@ -1,0 +1,25 @@
+.appBody{
+    background-color: rgb(119, 1, 1);
+    min-height: 89vh;
+    /* height: 90vh; */
+}
+.barSearch{
+    /* margin: auto; */
+    border-radius: 15px;
+    width: 320px;
+    height: 40px;
+    border: none;
+}
+.barSearch:focus{
+    border: none;
+    outline: none;
+    
+}
+.bodyForm{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+.none{
+    display: none;
+}

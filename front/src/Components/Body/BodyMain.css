@@ -1,0 +1,53 @@
+.bodyMain{
+    padding-bottom: 15px;
+}
+.bmimages{
+    width: 50%;
+}
+
+
+
+.restaurante{
+    background-image: url(https://image.freepik.com/vetores-gratis/interior-do-restaurante-com-pessoas-sentadas-as-mesas-e-garcons-servindo-comida-e-bebidas-isometricas_1284-60634.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    margin-top: 15px;
+    margin-left: 15px;
+    display: flex;
+    text-align: center;
+}
+.imagestxt{
+    background-color: rgba(0, 0, 0, 0.507);
+    text-align: center;
+    height: 15%;
+    width: 100%;
+    margin: auto;
+    color: whitesmoke;
+
+}
+
+
+.supermercado{
+    background-image: url(https://image.freepik.com/vetores-gratis/ilustracao-isometrica-de-supermercado_1284-20996.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    margin-top: 15px;
+    margin-right: 15px;
+    display: flex;
+    text-align: center;
+    margin-bottom: 15px;
+    float: right;
+}
+.estabelecimento{
+    background-image: url(https://image.freepik.com/vetores-gratis/estradas-de-ruas-de-cidade-de-edificios-do-governo-e-ilustracao-em-vetor-isometrica-de-trafego_1284-14205.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    margin-top: 15px;
+    margin-left: 15px;
+    display: flex;
+    text-align: center;
+
+}

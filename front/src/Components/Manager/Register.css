@@ -1,0 +1,44 @@
+.registerBody{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+
+.registerForm{
+    display: inline-block;
+    margin: auto;
+}
+.registerBoxTxt{
+    width: 80vw;
+    height: 5vh;
+    margin-bottom: 15px;
+}
+.formRegisterTxt{
+    width: 80vw;
+    font-size: 20px;
+}
+
+.btnSendRegister{
+    background-color: rgb(83, 0, 161);
+    border: none;
+    color: seashell;
+    height: 5vh;
+    width: 40vw;
+    margin-top: 2vh;
+    margin-right: 15px;
+    border: 0.5px solid #ffffff7a;
+
+}
+.btnSendRegister:hover{
+    background-color: rgb(131, 0, 207);
+    cursor: pointer;  
+}
+
+.formRegisterTitle{
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 35px;
+    font-size: 25px;
+    text-shadow: 2px 1px 0 #000000;    
+}

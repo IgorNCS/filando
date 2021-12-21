@@ -1,0 +1,37 @@
+.btnvazio{
+    background-color: green;
+    border: ridge rgba(0, 128, 0, 0.2);
+    border-radius: 15px;
+    margin-top: 6px;
+    width: 95%;
+}
+.btnmoderado{
+    background-color: orangered;
+    border: ridge rgba(0, 128, 0, 0.2);
+    border-radius: 15px;
+    margin-top: 6px;
+    width: 95%;
+}
+.btncheio{
+    background-color: red;
+    border: ridge rgba(0, 128, 0, 0.2);
+    border-radius: 15px;
+    margin-top: 6px;
+    width: 95%;
+}
+.cardChangeStatus{
+    display: flex;
+    flex-direction: column;
+}
+.cardSearch{
+    width: 90vw;
+    background-color: aliceblue;
+    /* background-color: red; */
+    height: 15vh;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    /* align-items: center; */
+    padding: 5px;
+}

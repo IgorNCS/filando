@@ -1,0 +1,54 @@
+.menuAdmin{
+    margin: auto;
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+}
+.btnMenuNew{
+    background-color: rgb(228, 1, 133);
+    border: none;
+    color: seashell;
+    height: 5vh;
+    width: 30vw;
+    margin-top: 2vh;
+    margin-right: 15px;
+    border: 0.5px solid #ffffff7a;
+}
+
+.btnMenuChanges{
+    background-color: rgb(83, 0, 161);
+    border: 0.5px solid #ffffff7a;
+    color: seashell;
+    height: 5vh;
+    width: 30vw;
+    margin-top: 2vh;
+    margin-right: 15px;
+}
+
+.cardNewsSwitch{
+    /* margin: auto; */
+    justify-content: space-between;
+}
+
+.cardSearchh{
+    width: 90vw;
+    background-color: aliceblue;
+    /* background-color: red; */
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    /* align-items: center; */
+    padding: 5px;
+}
+
+.btnnewsswitcha{
+    background-color: green;
+    border: 2.5px solid #0000007a;
+    color: seashell;
+}
+.btnnewsswitchr{
+    background-color: red;
+    border: 2.5px solid #0000007a;
+    color: seashell;
+}
